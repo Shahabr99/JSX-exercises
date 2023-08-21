@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(13, 70, 70);
+}
+
+.message-section {
+  background-color: bisque;
+  padding: 12px;
+  margin: 12px;
+  border-radius: 15px;
+}
